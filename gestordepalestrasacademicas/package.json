@@ -14,6 +14,8 @@
     "build:android:production": "cd android && ./gradlew assembleRelease",
     "cleanbuild:android": "cd android && ./gradlew clean && ./gradlew assembleDebug",
     "cleanbuild:android:production": "cd android && ./gradlew clean && ./gradlew assembleRelease",
+    "move:production": "mv android/app/build/outputs/apk/release/app-release.apk ",
+    "move:debug": "mv android/app/build/outputs/apk/debug/app-debug.apk ",
     "test": "jest",
     "prepare": "patch-package"
   },

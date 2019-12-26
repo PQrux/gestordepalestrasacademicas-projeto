@@ -66,7 +66,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Bem vindo ao loginizator 5000!</Text>
+        <Text style={styles.welcome}>Teste de login do Google!</Text>
         <Text>
           {
             this.state.uid ? 
