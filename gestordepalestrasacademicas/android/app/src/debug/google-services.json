@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235039606469",
+    "firebase_url": "https://gestordepalestrasacademicas.firebaseio.com",
+    "project_id": "gestordepalestrasacademicas",
+    "storage_bucket": "gestordepalestrasacademicas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235039606469:android:c1e73c1f2a7164e44fd2ac",
+        "android_client_info": {
+          "package_name": "com.gestordepalestrasacademicas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235039606469-t58ko8pcs5p0mtarhabu9r587riqc07u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gestordepalestrasacademicas",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "235039606469-ovo6l33qsb99gs9i5pg3k23fpvplkktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPT6-3WRz0tkiocfMEGA4I-tFSLB0qwzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235039606469-ovo6l33qsb99gs9i5pg3k23fpvplkktc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

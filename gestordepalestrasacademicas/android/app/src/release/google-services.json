@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30652217561",
+    "firebase_url": "https://gpa-producao.firebaseio.com",
+    "project_id": "gpa-producao",
+    "storage_bucket": "gpa-producao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30652217561:android:455e7c319aa435119966c8",
+        "android_client_info": {
+          "package_name": "com.gestordepalestrasacademicas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30652217561-ng4q3b5bmje9p3ahhvcar48u1piu6gu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gestordepalestrasacademicas",
+            "certificate_hash": "c9c6704a92232daca43f6f50a75d339dd5ff8f1a"
+          }
+        },
+        {
+          "client_id": "30652217561-usv13gvjcps9de8bi491mi2tamm5ess5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8KacziZuZMqOiZZel1xbnnOcAJVPy0rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30652217561-usv13gvjcps9de8bi491mi2tamm5ess5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
