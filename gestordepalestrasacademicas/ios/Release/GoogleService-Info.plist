@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>30652217561-8nub1f6a9q7c7f07qqavhpkhcdd7ip4l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.30652217561-8nub1f6a9q7c7f07qqavhpkhcdd7ip4l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>30652217561-mosb0900oonm0am1o5fhr7s0f01osfit.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB02uJvl5SQ28EjyKfptWpLaWdpcjbh3iM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>30652217561</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.gestordepalestrasacademicas</string>
+	<key>PROJECT_ID</key>
+	<string>gpa-producao</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gpa-producao.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:30652217561:ios:d6262c853333bbcc9966c8</string>
+	<key>DATABASE_URL</key>
+	<string>https://gpa-producao.firebaseio.com</string>
+</dict>
+</plist>
