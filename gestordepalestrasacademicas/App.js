@@ -93,5 +93,7 @@ export default class App extends Component {
 }
 
 const styles = StyleSheet.create({
-
+  container: {
+    paddingTop: 50,
+  }
 });
